@@ -1,5 +1,4 @@
 
-```markdown
 # Isaac Sim LeRobot ROS2 Bridge Example
 
 This repository demonstrates how to set up and control a custom robot (LeRobot) in NVIDIA Isaac Sim 4.5 using the Python API, with ROS2 bridge integration for joint state publishing and command subscription.

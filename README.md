@@ -28,7 +28,7 @@ This repository demonstrates how to set up and control a custom robot (LeRobot) 
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/<your-username>/isaacsim_lerobot.git
+git clone git@github.com:kabilankb/isaacsim_lerobot_ros2.git
 cd isaacsim_lerobot
 ```
 

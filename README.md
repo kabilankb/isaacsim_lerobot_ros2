@@ -22,7 +22,10 @@ This repository demonstrates how to set up and control a custom robot (LeRobot) 
 - All dependencies required by Isaac Sim
 
 ---
+![Image](https://github.com/user-attachments/assets/64e7799e-a51f-479e-81bc-f0e25cb4952b)
+                         - Python standlone 
 
+                         
 ## Usage
 
 ### 1. Clone the repository
